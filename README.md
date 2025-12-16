@@ -1,4 +1,4 @@
-# Databricks Beginner rawdata-to-dashboard  Project
+# Databricks Beginner raw data-to-dashboard  Project
 This project was created to build foundational skills in Databricks, including data ingestion, SQL analysis, and dashboard creation. Using emissions data, I explored how to upload files, create tables, run queries, and generate visual insights.
 
 ## What I Learned
