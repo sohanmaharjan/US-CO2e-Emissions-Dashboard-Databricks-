@@ -10,7 +10,7 @@ This project was created to build foundational skills in Databricks, including d
 
 -  Exploring data using SQL (cleaning, aggregations, calculations)
 
--  Building simple dashboards with maps, bar charts, scatter plots, and pie charts
+-  Building simple dashboards with maps, bar charts, scatter plots, and pie charts in Databricks
 
 -  Understanding Databricks File System (DBFS) and workspace navigation
 
